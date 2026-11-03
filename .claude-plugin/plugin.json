@@ -1,0 +1,22 @@
+{
+  "name": "movena",
+  "version": "1.0.0",
+  "description": "Connect Claude to Movena. Gym owners and staff ask about leads, member check-ins, bookings and their gym; members ask about their own training. Read-only, and only with your approval in Movena.",
+  "author": {
+    "name": "Movena",
+    "email": "support@movena.com.au",
+    "url": "https://movena.com.au"
+  },
+  "homepage": "https://movena.com.au",
+  "privacyPolicyUrl": "https://movena.com.au/legal/privacy/",
+  "icon": "./.claude-plugin/icon.png",
+  "license": "Proprietary",
+  "keywords": [
+    "movena",
+    "gym",
+    "fitness",
+    "gym management",
+    "personal training",
+    "bookings"
+  ]
+}

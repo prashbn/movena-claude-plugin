@@ -1,0 +1,15 @@
+{
+  "name": "movena",
+  "owner": {
+    "name": "Movena",
+    "email": "support@movena.com.au"
+  },
+  "description": "Movena for Claude: connect Claude to your Movena gym account.",
+  "plugins": [
+    {
+      "name": "movena",
+      "source": "./",
+      "description": "Connect Claude to Movena: read-only answers about your gym or your own training, with your approval."
+    }
+  ]
+}
