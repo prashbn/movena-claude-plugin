@@ -8,7 +8,11 @@
     "url": "https://movena.com.au"
   },
   "homepage": "https://movena.com.au",
+  "repository": "https://github.com/prashbn/movena-claude-plugin",
+  "documentationUrl": "https://movena.com.au/help/",
+  "supportUrl": "https://movena.com.au/contact/",
   "privacyPolicyUrl": "https://movena.com.au/legal/privacy/",
+  "termsOfServiceUrl": "https://movena.com.au/legal/terms/",
   "icon": "./.claude-plugin/icon.png",
   "license": "Proprietary",
   "keywords": [
